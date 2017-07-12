@@ -1,5 +1,5 @@
-# DeNA_Unity_MiniGame
-DeNA提出用ミニゲーム
+# Unity_MiniGame
+提出用ミニゲーム
 
 <利用環境>
 
