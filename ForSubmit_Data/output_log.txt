@@ -1,0 +1,210 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 630 (ID=0x5912)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.20.16.4534
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\junki\Desktop\Unity-Project\DeNA_Unity\ForSubmit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\junki\Desktop\Unity-Project\DeNA_Unity\ForSubmit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\junki\Desktop\Unity-Project\DeNA_Unity\ForSubmit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\junki\Desktop\Unity-Project\DeNA_Unity\ForSubmit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\junki\Desktop\Unity-Project\DeNA_Unity\ForSubmit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\junki\Desktop\Unity-Project\DeNA_Unity\ForSubmit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\junki\Desktop\Unity-Project\DeNA_Unity\ForSubmit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\junki\Desktop\Unity-Project\DeNA_Unity\ForSubmit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\junki\Desktop\Unity-Project\DeNA_Unity\ForSubmit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\junki\Desktop\Unity-Project\DeNA_Unity\ForSubmit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.017 seconds
+Platform assembly: C:\Users\junki\Desktop\Unity-Project\DeNA_Unity\ForSubmit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\junki\Desktop\Unity-Project\DeNA_Unity\ForSubmit_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3200x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.691305 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at EnemyController.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1a74 -> priority: 1 
+  Thread -> id: 2374 -> priority: 1 
+  Thread -> id: 60a8 -> priority: 1 
+  Thread -> id: 7478 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.680992 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1488.
+Total: 2.219518 ms (FindLiveObjects: 0.057173 ms CreateObjectMapping: 0.020479 ms MarkObjects: 0.224426 ms  DeleteObjects: 1.917438 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.521597 ms
+
+Unloading 133 unused Assets to reduce memory usage. Loaded Objects now: 384.
+Total: 2.168887 ms (FindLiveObjects: 0.020479 ms CreateObjectMapping: 0.013084 ms MarkObjects: 0.194844 ms  DeleteObjects: 1.939909 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.340479 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.300657 ms (FindLiveObjects: 0.015928 ms CreateObjectMapping: 0.011093 ms MarkObjects: 0.160426 ms  DeleteObjects: 0.112924 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at EnemyController.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.433208 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1522.
+Total: 2.288922 ms (FindLiveObjects: 0.057457 ms CreateObjectMapping: 0.020479 ms MarkObjects: 0.259413 ms  DeleteObjects: 1.950718 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.483303 ms
+
+Unloading 126 unused Assets to reduce memory usage. Loaded Objects now: 387.
+Total: 2.306842 ms (FindLiveObjects: 0.033848 ms CreateObjectMapping: 0.013084 ms MarkObjects: 0.209066 ms  DeleteObjects: 2.050842 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.316870 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 385.
+Total: 0.439181 ms (FindLiveObjects: 0.015075 ms CreateObjectMapping: 0.010808 ms MarkObjects: 0.180906 ms  DeleteObjects: 0.232390 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at EnemyController.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.449990 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1525.
+Total: 2.246540 ms (FindLiveObjects: 0.061724 ms CreateObjectMapping: 0.019057 ms MarkObjects: 0.261404 ms  DeleteObjects: 1.904353 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AutoDoor.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AutoDoor.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AutoDoor.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AutoDoor.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ItemController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
